@@ -1,0 +1,6 @@
+{
+  "name": "Bashar Ai",
+  "description": "আপনার প্রশ্ন, আপনার সহকারী, এক জায়গায় AI — Bashar Gojol Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
